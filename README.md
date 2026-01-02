@@ -55,4 +55,15 @@ receipt-processor-bucket/
     ├── receipt.jpg.summary.txt
     └── receipt.jpg.bedrock.json
 
+## Screenshots
+### S3 Bucket Structure
+screenshots/s3-bucket-structure.png
+
+### Textract Extraction Output
+screenshots/textract-summary.png
+
+### GenAI Output (Amazon Bedrock)
+screenshots/bedrock-output.png
+
+
 
